@@ -1,3 +1,3 @@
 # TEST
 
-This is my test area
+This is my test area.
